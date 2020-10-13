@@ -1,2 +1,2 @@
 # iris-driver-distribution
-JDBC and other drivers distribution repo
+JDBC driver for InterSystems IRIS
