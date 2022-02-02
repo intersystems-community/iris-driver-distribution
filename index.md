@@ -1,5 +1,8 @@
-# iris-driver-distribution
-This repo provides drivers for use in making programmatic connections to IRIS Cloud from Java (JDBC), Python (DB-API), C++ (ODBC), and .NET (ADO.NET). Programming a connection involves these simple steps:
+---
+title: "Welcome"
+---
+
+This page provides drivers for use in making programmatic connections to IRIS Cloud from Java (JDBC), Python (DB-API), C++ (ODBC), and .NET (ADO.NET). Programming a connection involves these simple steps:
 
 1. Download the driver for the language you are developing in, as listed in **Drivers**. 
 2. Follow the instructions in the learning content listed in **Get Started** to install it in your environment.
@@ -18,6 +21,18 @@ This repo provides drivers for use in making programmatic connections to IRIS Cl
 **InterSystems.Data.IRISClient.dll**
 - ODBC: 
 In the **OBDC** folder, select **ODBC-2020.3.0.221.0-**_platform_identifier_, where _platform_identifier_ matches your platform.
+
+
+## Drivers
+<button class="btn" onclick="document.getElementById('java').click()">Java</button>
+<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download target="_blank" hidden></a>
+<button class="btn" onclick="document.getElementById('dotnet').click()">.NET</button>
+<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
+<button class="btn" onclick="document.getElementById('python').click()">Python</button>
+<a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
+<button class="btn" onclick="document.getElementById('Cplusplus').click()">C++</button>
+<a id="Cplusplus" href="https://github.com/intersystems-community/iris-driver-distribution/tree/main/ODBC" target="_blank" hidden></a>
+
 
 ## Get Started
 - [Watch brief videos about connecting to IRIS Cloud](https://learning.intersystems.com/course/view.php?name=SQLaaSConnect)
