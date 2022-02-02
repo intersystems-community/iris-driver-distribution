@@ -25,13 +25,13 @@ In the **OBDC** folder, select **ODBC-2020.3.0.221.0-**_platform_identifier_, wh
 
 ## Drivers
 <button class="btn" onclick="document.getElementById('java').click()">Java</button>
-<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download="test.txt" target="_blank" hidden></a>
+<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('dotnet').click()">.NET</button>
-<a id="dotnet" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
+<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('python').click()">Python</button>
-<a id="python" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
+<a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('Cplusplus').click()">C++</button>
-<a id="Cplusplus" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
+<a id="Cplusplus" href="https://github.com/intersystems-community/iris-driver-distribution/tree/main/ODBC" target="_blank" hidden></a>
 
 
 ## Get Started
