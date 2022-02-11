@@ -13,11 +13,11 @@ Use the buttons to download drivers for use in making programmatic connections t
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('CplusplusLinux').click()">ODBC Linux</button>
-<a id="CplusplusLinux" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2020.3.0.221.0-lnxubuntux64.tar.gz?raw=true" download target="_blank" hidden></a>
+<a id="CplusplusLinux" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2022.1.0.122.0-lnxubuntu1804x64.tar.gz?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('CplusplusMac').click()">ODBC Mac</button>
-<a id="CplusplusMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2020.3.0.221.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>
+<a id="CplusplusMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2022.1.0.122.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('CplusplusWin').click()">ODBC Win</button>
-<a id="CplusplusWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2020.3.0.221.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
+<a id="CplusplusWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/ODBC-2022.1.0.122.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
 
 Program a connection using these simple steps:
 
