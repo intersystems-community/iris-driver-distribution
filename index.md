@@ -7,7 +7,7 @@ title: "InterSystems IRIS Cloud"
 Use the buttons to download drivers for use in making programmatic connections to IRIS Cloud. 
 
 <button class="btn" onclick="document.getElementById('java').click()">JDBC</button>
-<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download target="_blank" hidden></a>
+<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.3.0.jar?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('dotnet').click()">ADO.NET</button>
 <a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
