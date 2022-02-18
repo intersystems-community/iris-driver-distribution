@@ -19,7 +19,7 @@ This repo provides drivers for use in making programmatic connections to InterSy
 In the **OBDC** folder, select **ODBC-2020.3.0.221.0-**_platform_identifier_, where _platform_identifier_ matches your platform.
 
 ## Get Started
-For instructions for using the drivers and ccreating onnections strings, see the following documentation
+For instructions for using the drivers and creating connections strings, see the following documentation
 - [First Look: JDBC and InterSystems Databases](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_jdbc#AFL_jdbc_Exploring)
 - [Python DB-API Support](https://docs.intersystems.com/iris20221/csp/docbook/DocBook.UI.Page.cls?KEY=BTPI_pyapi)
 - [First Look: ADO.NET and InterSystems Products](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_adonet#AFL_adonet_exploring)
