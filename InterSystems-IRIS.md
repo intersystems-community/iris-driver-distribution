@@ -31,7 +31,7 @@ Program a connection using these simple steps:
 
 3. Install the driver and add the needed code to your application. For instructions, consult these learning materials:
 
-	- Read [Connecting Applications to InterSystems IRIS](http://use7400bbinsto2:52778/csp/docbook/DocBook.UI.Page.cls?KEY=ADRIVE). 
+	- Read [Connecting Applications to InterSystems IRIS](https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=ADRIVE). 
 	- Start on [the learning path for your language](https://learning.intersystems.com/course/view.php?name=LanguagesLPs).
 
 
