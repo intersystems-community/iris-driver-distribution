@@ -1,11 +1,11 @@
 ---
 layout: default
 title: InterSystems IRIS
-nav_order: 2
+nav_order: 1
 ---
 # InterSystems IRIS Drivers
 
-Use the buttons to download drivers for use in making programmatic connections to InterSystems IRIS. 
+Use the buttons to download drivers for use in connecting your applications to InterSystems IRIS. 
 
 <button class="btn" onclick="document.getElementById('java').click()">JDBC</button>
 <a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.3.0.jar?raw=true" download target="_blank" hidden></a>
@@ -22,19 +22,17 @@ Use the buttons to download drivers for use in making programmatic connections t
 
 Program a connection using these simple steps:
 
-1. Download the driver for the language you are developing in. 
-2. Follow the instructions in the learning content listed below to install it in your environment.
-3. Continue with the instructions to add the appropriate connection string to your application. To do this, you'll need the following information about the InterSystems IRIS instance you want to connect to:
-- The hostname or IP address of the instance's host and the superserver port of the instance (default 1972). If the instance is running in a container, you'll need to know what host port the superserver port was published as when the container was created.
-- The Namespace you want to connect to.
-- The username and password of an account with sufficient privileges to execute the actions you want to take through the connection.
+1. Download the driver for the language you are developing in: JDBC for Java, ADO.NET for .NET languages such as C#, DB-API for Python, or ODBC for C++.
 
-For instructions:
-- [Choose a learning path based on your language](https://learning.intersystems.com/course/view.php?name=LanguagesLPs)
-- Read documentation about using drivers and connections strings:
-	- [First Look: JDBC and InterSystems Databases](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_jdbc)
-	- [Python DB-API Support](https://docs.intersystems.com/iris20221/csp/docbook/DocBook.UI.Page.cls?KEY=BTPI_pyapi)
-	- [First Look: ADO.NET and InterSystems Products](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_adonet)
-	- [First Look: ODBC and InterSystems Databases](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AFL_odbc)
+2. Gather the connection information for the InterSystems IRIS target you want to connect to. 
+
+	- For the connection information for an InterSystems IRIS cloud service, such as [IRIS Cloud SQL](https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=PAGE_iriscloudsql), refer to the deployment’s Overview page in the cloud services portal. 
+	- For detailed information about the connection information for InterSystems IRIS clusters and instances on various platforms, see [InterSystems IRIS Connection Information](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AB_idesetup#AB_idesetup_info).
+
+3. Install the driver and add the needed code to your application. For instructions, consult these learning materials:
+
+	- Read [Connecting Applications to InterSystems IRIS](https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=ADRIVE). 
+	- Start on [the learning path for your language](https://learning.intersystems.com/course/view.php?name=LanguagesLPs).
+
 
 
