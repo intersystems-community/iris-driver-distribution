@@ -19,12 +19,12 @@ Use the buttons to download drivers for use in connecting your applications to I
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
 <a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2004/ODBC-2022.1.0.209.0-lnxubuntu2004x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
 <a id="ODBCMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/mac/ODBC-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCWin').click()">ODBC Win</button>
-<a id="ODBCWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/windows/ODBC-2022.1.0.209.0-win_x64.exe ?raw=true" download target="_blank" hidden></a>
+<a id="ODBCWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/windows/ODBC-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('NodeUbuntu').click()">Node.js Ubuntu</button>
 <a id="NodeUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/lnxubuntu/NodeJS-2022.1.0.209.0-lnxubuntu2004x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('NodeMac').click()">Node.js Mac</button>
-<a id="NodeMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/mac/NodeJS-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('NodeWin').click()">Node.js Win</button>
-<a id="NodeWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/windows/NodeJS-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
+<a id="NodeMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/mac/NodeJS-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>  <!--<button class="btn" onclick="document.getElementById('NodeWin').click()">Node.js Win</button>
+<a id="NodeWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/windows/NodeJS-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a>-->
 
 You can browse all of the available InterSystems IRIS driver packages at https://github.com/intersystems-community/iris-driver-distribution.
 
