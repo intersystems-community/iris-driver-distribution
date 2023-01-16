@@ -16,6 +16,9 @@ Use the buttons to download drivers for use in connecting your applications to I
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 
+<button class="btn" onclick="document.getElementById('python').click()">DB-API Community</button>
+<a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_iris-3.3.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
+
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
 <a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2004/ODBC-2022.1.0.209.0-lnxubuntu2004x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
 <a id="ODBCMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/mac/ODBC-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCWin').click()">ODBC Win</button>
