@@ -8,7 +8,7 @@ nav_order: 1
 Use the buttons to download drivers for use in connecting your applications to InterSystems IRIS. 
 
 <button class="btn" onclick="document.getElementById('java').click()">JDBC</button>
-<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.6.1.jar?raw=true" download target="_blank" hidden></a>
+<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.7.1.jar?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('dotnet').click()">ADO.NET</button>
 <a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
