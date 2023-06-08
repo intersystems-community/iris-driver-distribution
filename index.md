@@ -20,9 +20,9 @@ Use the buttons to download drivers for use in connecting your applications to I
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_iris-3.3.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
-<a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2004/ODBC-2022.1.0.209.0-lnxubuntu2004x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
-<a id="ODBCMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/mac/ODBC-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCWin').click()">ODBC Win</button>
-<a id="ODBCWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/windows/ODBC-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
+<a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2204/ODBC-2023.1.0.229.0-lnxubuntu2204x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
+<a id="ODBCMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/mac/ODBC-2023.1.0.229.0-macos.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCWin').click()">ODBC Win</button>
+<a id="ODBCWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/windows/ODBC-2023.1.0.229.0-win_x64.exe?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('NodeUbuntu').click()">Node.js Ubuntu</button>
 <a id="NodeUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/lnxubuntu/NodeJS-2022.1.0.209.0-lnxubuntu2004x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('NodeMac').click()">Node.js Mac</button>
