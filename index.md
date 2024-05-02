@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # InterSystems IRIS Driver Packages
 
-Use the buttons to download drivers for use in connecting your applications to InterSystems IRIS. 
+The official location for customers to download the latest released and fully supported InterSystems IRIS driver packages is the [*WRC download site*](https://wrc.intersystems.com/wrc/coDistGen.csp). This page serves as a supplementary convenience for users of the Community Edition, InterSystems Cloud Services, and other InterSystems products. Use the buttons to download drivers for use in connecting your applications to InterSystems IRIS. 
 
 <button class="btn" onclick="document.getElementById('java').click()">JDBC</button>
 <a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.7.1.jar?raw=true" download target="_blank" hidden></a>
@@ -15,6 +15,7 @@ Use the buttons to download drivers for use in connecting your applications to I
 
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
+
 
 <button class="btn" onclick="document.getElementById('python').click()">DB-API Community</button>
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_iris-3.3.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
@@ -30,7 +31,7 @@ Use the buttons to download drivers for use in connecting your applications to I
  <a id="NodeWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/win/NodeJS-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a> -->
 
 
-You can browse all of the available InterSystems IRIS driver packages at [https://github.com/intersystems-community/iris-driver-distribution](https://github.com/intersystems-community/iris-driver-distribution).
+You can browse the available InterSystems IRIS driver packages at [https://github.com/intersystems-community/iris-driver-distribution](https://github.com/intersystems-community/iris-driver-distribution).
 
 Program a connection using these simple steps:
 
