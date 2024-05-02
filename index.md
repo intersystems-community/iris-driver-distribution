@@ -16,10 +16,6 @@ The official location for customers to download the latest released and fully su
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
 <a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 
-
-<button class="btn" onclick="document.getElementById('python').click()">DB-API Community</button>
-<a id="python" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/DB-API/intersystems_iris-3.3.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
-
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
 <a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2204/ODBC-2023.1.0.229.0-lnxubuntu2204x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
 <a id="ODBCMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/mac/ODBC-2023.1.0.229.0-macos.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCWin').click()">ODBC Win</button>
