@@ -27,7 +27,7 @@ The official location for customers to download the latest released and fully su
 <a id="NodeMac" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/mac/NodeJS-2022.1.0.209.0-macx64.tar.gz?raw=true" download target="_blank" hidden></a> <!-- <button class="btn" onclick="document.getElementById('NodeWin').click()">Node.js Win</button>
  <a id="NodeWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/win/NodeJS-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a> -->
 
-## IntreSystems IRIS Cloud Document Drivers
+## InterSystems IRIS Cloud Document Drivers
 <button class="btn" onclick="document.getElementById('java-document').click()">Java</button>
 <a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.0-ALPHA.jar?raw=true" download target="_blank" hidden></a>
 
