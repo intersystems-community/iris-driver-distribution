@@ -15,7 +15,7 @@ The official location for customers to download the latest released and fully su
 <a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
-<a id="python" href="https://github.com/intersystems-community/intersystems-irispython/releases/download/3.7.7/intersystems_iris-3.7.7-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
+<a id="python" href="https://github.com/grongierisc/iris-driver-distribution/raw/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
 <a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2204/ODBC-2023.1.0.229.0-lnxubuntu2204x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
