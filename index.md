@@ -29,10 +29,10 @@ The official location for customers to download the latest released and fully su
 
 ## InterSystems IRIS Cloud Document Drivers
 <button class="btn" onclick="document.getElementById('java-document').click()">Java</button>
-<a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.0-ALPHA.jar?raw=true" download target="_blank" hidden></a>
+<a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.1.jar?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('dotnet-document').click()">.NET</button>
-<a id="dotnet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.Document.1.0.0-ALPHA.nupkg?raw=true" download target="_blank" hidden></a>
+<a id="dotnet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.Document.1.0.1.nupkg?raw=true" download target="_blank" hidden></a>
 
 
 You can browse the available InterSystems IRIS driver packages at [https://github.com/intersystems-community/iris-driver-distribution](https://github.com/intersystems-community/iris-driver-distribution).
