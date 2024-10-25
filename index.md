@@ -12,7 +12,7 @@ The official location for customers to download the latest released and fully su
 <a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.8.4.jar?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('dotnet').click()">ADO.NET</button>
-<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
+<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.2.3.3.nupkg?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
 <a id="python" href="https://github.com/grongierisc/iris-driver-distribution/raw/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
