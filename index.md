@@ -30,12 +30,12 @@ The official location for customers to download the latest released and fully su
 ## InterSystems IRIS Cloud Document Drivers
 The Java and .NET document APIs depend on supported versions of JDBC and ADO.NET, respectively. Download your preferred document API and the corresponding version JDBC or ADO.NET version below.
 
-<button class="btn" onclick="document.getElementById('java-document').click()">Java</button>
+<button class="btn" onclick="document.getElementById('java-document').click()">Java Document API</button>
 <a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.1.jar?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('jdbc-document').click()">JDBC 3.10.1</button>
 <a id="jdbc-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.10.1.jar?raw=true" download target="_blank" hidden></a>
 
 
-<button class="btn" onclick="document.getElementById('dotnet-document').click()">.NET</button>
+<button class="btn" onclick="document.getElementById('dotnet-document').click()">.NET Document API</button>
 <a id="dotnet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.Document.1.0.1.nupkg?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('adonet-document').click()">ADO.NET 2.3.3</button>
 <a id="adonet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.2.3.3.nupkg?raw=true" download target="_blank" hidden></a>
 
