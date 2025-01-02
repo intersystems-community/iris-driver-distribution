@@ -12,10 +12,10 @@ The official location for customers to download the latest released and fully su
 <a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.8.4.jar?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('dotnet').click()">ADO.NET</button>
-<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.dll?raw=true" download target="_blank" hidden></a>
+<a id="dotnet" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.2.3.3.nupkg?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('python').click()">DB-API</button>
-<a id="python" href="https://github.com/intersystems-community/intersystems-irispython/releases/download/3.7.7/intersystems_iris-3.7.7-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
+<a id="python" href="https://github.com/grongierisc/iris-driver-distribution/raw/main/DB-API/intersystems_irispython-3.2.0-py3-none-any.whl?raw=true" download target="_blank" hidden></a>
 
 <button class="btn" onclick="document.getElementById('ODBCUbuntu').click()">ODBC Ubuntu</button>
 <a id="ODBCUbuntu" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ODBC/lnxubuntu2204/ODBC-2023.1.0.229.0-lnxubuntu2204x64.tar.gz?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('ODBCMac').click()">ODBC Mac</button>
@@ -28,12 +28,16 @@ The official location for customers to download the latest released and fully su
  <a id="NodeWin" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/Node.js/win/NodeJS-2022.1.0.209.0-win_x64.exe?raw=true" download target="_blank" hidden></a> -->
 
 ## InterSystems IRIS Cloud Document Drivers
-<button class="btn" onclick="document.getElementById('java-document').click()">Java</button>
-<a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.0-ALPHA.jar?raw=true" download target="_blank" hidden></a>
+The Java and .NET document APIs depend on supported versions of JDBC and ADO.NET, respectively. Download your preferred document API and the corresponding version JDBC or ADO.NET version below.
 
-<button class="btn" onclick="document.getElementById('dotnet-document').click()">.NET</button>
-<a id="dotnet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.Document.1.0.0-ALPHA.nupkg?raw=true" download target="_blank" hidden></a>
+<button class="btn" onclick="document.getElementById('java-document').click()">Java Document API</button>
+<a id="java-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-document-1.0.1.jar?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('jdbc-document').click()">JDBC 3.10.1</button>
+<a id="jdbc-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/JDBC/JDK18/intersystems-jdbc-3.10.1.jar?raw=true" download target="_blank" hidden></a>
 
+
+<button class="btn" onclick="document.getElementById('dotnet-document').click()">.NET Document API</button>
+<a id="dotnet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.Document.1.0.1.nupkg?raw=true" download target="_blank" hidden></a>  <button class="btn" onclick="document.getElementById('adonet-document').click()">ADO.NET 2.3.3</button>
+<a id="adonet-document" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/ADO.NET/InterSystems.Data.IRISClient.2.3.3.nupkg?raw=true" download target="_blank" hidden></a>
 
 You can browse the available InterSystems IRIS driver packages at [https://github.com/intersystems-community/iris-driver-distribution](https://github.com/intersystems-community/iris-driver-distribution).
 
@@ -50,6 +54,6 @@ Program a connection using these simple steps:
 
 3. Install the driver and add the needed code to your application. For instructions, consult these learning materials:
 
-	- Read <a href="https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=ADRIVE" target="_blank">Connecting Applications to InterSystems IRIS</a>. 
+	- Read <a href="https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=GDRIVE" target="_blank">Connecting Your Application to InterSystems Products</a>. 
 	- Watch <a href="https://learning.intersystems.com/course/view.php?name=IRISCloudConnect" target="_blank">brief videos</a> showing how to code an application connection.
 	- Start on <a href="https://learning.intersystems.com/course/view.php?name=LanguagesLPs" target="_blank">the learning path for your language</a>.
