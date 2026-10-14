@@ -12,7 +12,7 @@ Fully supported releases are also available from the [InterSystems download site
 - [Node.js](#nodejs)
 - [ODBC](#odbc)
 
-> [!WARNING]
+> [!IMPORTANT]
 > Previous versions of this repository included copies of several additional client artifacts. These are now available through secure, direct distribution channels as described below, including the latest versions compatible with your IRIS server version. 
 > We are no longer maintaining copies of such artifacts on this page.
 
@@ -168,6 +168,6 @@ npm install @intersystems/intersystems-iris-native
 
 There is no specific standard repository for distributing ODBC drivers. We recommend downloading them from the [InterSystems download portal](https://downloads.intersystems.com/components). See the [InterSystems Documentation](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=BNETODBC_intro) for more about establishing ODBC connections.
 
-> [!INFORMATION]
+> [!NOTE]
 > We occasionally make recent copies of the ODBC driver available through this repository for users of our community edition or cloud services that do not yet have an InterSystems SSO account.
 > This is on a courtesy basis only and not a commitment.
