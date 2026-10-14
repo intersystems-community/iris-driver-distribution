@@ -2,7 +2,7 @@ title: Driver Packages
 author: Jenny Ames
 email: jennifer.ames@intersystems.com
 description: > # this means to ignore newlines until "baseurl:"
-  Download drivers to support your needs.
+  Client libraries and drivers for connecting to InterSystems IRIS.
 remote_theme: pmarsceill/just-the-docs
 aux_links:
   "Explore all driver versions on GitHub":
